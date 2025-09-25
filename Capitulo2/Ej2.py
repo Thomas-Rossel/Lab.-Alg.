@@ -6,5 +6,5 @@ def sumar(num):
         for a in range(num+1):
             suma+=a
     
-    print(suma)
+        print(suma)
 sumar(5)
